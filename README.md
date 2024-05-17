@@ -51,5 +51,50 @@ Once you have activated the 2FA on the same page where you made it, the ‘Appli
 
 To summarise, we have created 2 email addresses, each with dual authentication enabled. Let's move on to the next step!
 
-## GoPhish installation
+## GoPhish part
 
+### **1.** Download and installation.
+
+We're now going to install GoPhish on the PC.
+
+[Here](https://getgophish.com/) is the official link where you can download it (depending on your OS)
+
+After downloading it, you can choose where you want to place it in your pc and you dezip the file.
+
+You can go into the unzipped file and look for the .exe file.
+
+![alt text](/img/gophish-exe.png)
+
+The first time you launch it, it is normal for Windows security to signal that it is not a reliable program. You can trust it and then a terminal will appear giving you the information you need to connect to your GoPhish portal.
+
+- In blue: URL to have access to the portal
+- In red: User + Password
+
+![alt text](/img/Gophish.png)
+
+### **2.** GoPhish setup
+
+Keep the terminal open and go to your browser and inster the following address: https://127.0.0.1:3333 to have access to your portal.
+
+Use the credentials that they gave you. In this case it's:
+
+- Username: admin
+- Password: 33edc65b82cae77a
+
+![alt text](/img/gophish-welcome.png)
+
+After entering the credentials you can directly update your password and put a stronger one.
+
+![alt text](/img/dashboard.png)
+
+### **3.** Sending profiles setup
+
+### **4.** Landing Pages setup
+
+### **5.** Email Templates setup
+
+### **6.** Users and Groups setup
+
+### **7.** Campaigns setup
+
+## Final test

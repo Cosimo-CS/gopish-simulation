@@ -1,6 +1,6 @@
 # GoPhish Simulation
 
-## About This Repository
+## About this repository
 
 This repository contains resources and configurations for a phishing simulation project created using GoPhish, designed specifically for educational purposes within the context of a cybersecurity training program. The goal of this project is to help students and professionals understand the mechanics of phishing attacks and develop skills to defend against them.
 
